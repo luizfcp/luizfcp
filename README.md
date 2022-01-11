@@ -10,3 +10,10 @@ I'm an statistics student at Universidade Federal Fluminense.
 My interests span R, Python, Data Science, Machine Learning, Statistics, Read and Music.
 
 Feel free to see my repositories here on github. :octocat:
+
+---
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=luizfcp&count_private=true&include_all_commits=true&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfcp&theme=dark&layout=compact&hide=html,jupyter%20notebook,css,TeX" />
+</div>
