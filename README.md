@@ -7,6 +7,4 @@ Hi! Welcome to my profile 😄
 
 I'm an statistics student at Universidade Federal Fluminense.
 
-My interests span R, Python, Data Science, Machine Learning, Statistics, Read and Music.
-
 Feel free to see my repositories here on github. :octocat:
