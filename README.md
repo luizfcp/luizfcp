@@ -5,6 +5,6 @@
 
 Hi! Welcome to my profile 😄
 
-I'm an statistics student at Universidade Federal Fluminense.
+I have a degree in statistics from the Fluminense Federal University (UFF - RJ).
 
 Feel free to see my repositories here on github. :octocat:
