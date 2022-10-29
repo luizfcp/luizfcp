@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Hi!%20Welcome%20to%20my%20profile&fontSize=20&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
 
-<p align=center>
-
 I'm Luiz Fernando.
 
 🎓 BSc in Statistics from the Universidade Federal Fluminense (RJ - Brazil).
@@ -22,8 +20,9 @@ Feel free to see my repositories here on github :octocat: and check out my other
 
 ---
 
+<p align="center">
 ![image](https://github-readme-streak-stats.herokuapp.com/?user=luizfcp)
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizfcp&theme=vue)
 
 <!-- ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=luizfcp) -->
-
+</p>
