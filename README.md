@@ -1,10 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Hi!%20Welcome%20to%20my%20profile&fontSize=20&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
 
-I'm Luiz Fernando.
+<b>I'm Luiz Fernando.</b>
 
 🎓 BSc in Statistics from the Universidade Federal Fluminense (RJ - Brazil).
 
-💻 My interests span Programming, Data Science, Data Analysis e Machine Learning.
+💻 My interests span Programming, Data Science, Data Analysis and Machine Learning.
 
 Main Programming Language: 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
