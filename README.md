@@ -10,7 +10,5 @@ Hi! Welcome to my profile 😄
 
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizfcp&theme=vue)
 
-![image](https://github-readme-stats.vercel.app/api?username=luizfcp)
-
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=luizfcp)
 ![image](https://github-readme-streak-stats.herokuapp.com/?user=luizfcp)
