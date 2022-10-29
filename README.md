@@ -19,7 +19,7 @@ Feel free to see my repositories here on github :octocat: and check out my other
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:luizfcpassos@gmail.com)](mailto:luizfcpassos@gmail.com)
 
 ---
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luizfcp" />  
+
 ![image](https://github-readme-streak-stats.herokuapp.com/?user=luizfcp)
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizfcp&theme=vue)
 
