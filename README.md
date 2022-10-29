@@ -5,4 +5,4 @@
 
 Hi! Welcome to my profile 😄
 
-Feel free to see my repositories here on github. :octocat:
+<!--- Feel free to see my repositories here on github. :octocat: -->
