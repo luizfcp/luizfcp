@@ -2,9 +2,11 @@
 
 <b>I'm Luiz Fernando.</b>
 
+🎓 Studyng at MSc in Computation - Data Science and Artificial Inteligence from the Universidade Federal Fluminense (RJ - Brazil).
+
 🎓 BSc in Statistics from the Universidade Federal Fluminense (RJ - Brazil).
 
-💻 My interests span Programming, Data Science, Data Analysis and Machine Learning.
+💻 My interests span Programming, Data Science, Data Analysis and Artificial Inteligence (Machine Learning, Deep Learning and Natural Language Processing).
 
 Main Programming Language: 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
