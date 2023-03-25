@@ -54,6 +54,4 @@ Feel free to see my repositories here on github :octocat: and check out my other
 <!-- ![image](https://github-readme-streak-stats.herokuapp.com/?user=luizfcp)-->
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizfcp&theme=vue)
 <!-- ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=luizfcp)-->
-![image](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fluizfcp1212%2Fhit-counter)
-
 ![image](https://github-profile-trophy.vercel.app/?username=luizfcp)
