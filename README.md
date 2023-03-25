@@ -6,7 +6,7 @@
 
 🎓 BSc in Statistics from the Universidade Federal Fluminense (RJ - Brazil).
 
-💻 My interests span Programming, Data Science, Data Analysis and Artificial Inteligence (Machine Learning, Deep Learning and Natural Language Processing).
+💻 My interests span Programming, Data Science, Data Analysis and Artificial Inteligence (Machine Learning, Deep Learning, Computer Vision and Natural Language Processing).
 
 > Main Programming Language: 
 
@@ -53,5 +53,5 @@ Feel free to see my repositories here on github :octocat: and check out my other
 
 <!-- ![image](https://github-readme-streak-stats.herokuapp.com/?user=luizfcp)-->
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizfcp&theme=vue)
-
 <!-- ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=luizfcp)-->
+![image](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luizfcp)
