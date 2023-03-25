@@ -58,4 +58,6 @@ Feel free to see my repositories here on github :octocat: and check out my other
 <!-- ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=luizfcp)-->
 ![image](https://github-profile-trophy.vercel.app/?username=luizfcp)
 
+---
+
 ![](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
