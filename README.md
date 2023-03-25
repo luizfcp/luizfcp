@@ -8,6 +8,8 @@
 
 💻 My interests span Programming, Data Science, Data Analysis and Artificial Inteligence (Machine Learning, Deep Learning, Computer Vision and Natural Language Processing).
 
+---
+
 > Main Programming Language: 
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
