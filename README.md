@@ -56,7 +56,7 @@
 
 <p align="center">
 <!-- ![image](https://github-readme-streak-stats.herokuapp.com/?user=luizfcp)-->
-![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizfcp&theme=vue)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizfcp&theme=vue" />
 <!-- ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=luizfcp)-->
 ![image](https://github-profile-trophy.vercel.app/?username=luizfcp)
 </p>
