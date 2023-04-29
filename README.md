@@ -61,7 +61,7 @@
 </p>
   
 
-![image]("https://github-profile-trophy.vercel.app/?username=luizfcp))
+![image](https://github-profile-trophy.vercel.app/?username=luizfcp)
   
 ---
 
