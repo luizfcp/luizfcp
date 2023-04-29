@@ -58,13 +58,12 @@
   <!-- ![image](https://github-readme-streak-stats.herokuapp.com/?user=luizfcp)-->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizfcp&theme=vue" />
   <!-- ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=luizfcp)-->
+  <img src="https://github-profile-trophy.vercel.app/?username=luizfcp" />
 </p>
  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=luizfcp" />
 </p>
-
-![image](https://github-profile-trophy.vercel.app/?username=luizfcp)
   
 ---
 
