@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Hi!%20Welcome%20to%20my%20profile&fontSize=20&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
 
-<b>I'm Luiz Fernando.</b>
+<b>I'm Luiz Fernando.</b> <img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px">
 
 🎓 Studyng at MSc in Computation - Data Science and Artificial Inteligence from the Universidade Federal Fluminense (RJ - Brazil).
 
@@ -53,11 +53,14 @@
 
 ---
 -->
+
+<p align="center">
 <!-- ![image](https://github-readme-streak-stats.herokuapp.com/?user=luizfcp)-->
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizfcp&theme=vue)
 <!-- ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=luizfcp)-->
 ![image](https://github-profile-trophy.vercel.app/?username=luizfcp)
-
+</p>
+  
 ---
 
 ![](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
