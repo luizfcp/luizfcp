@@ -66,12 +66,12 @@
 <img src="https://github-readme-stats.vercel.app/api?username=luizfcp&show_icons=true&theme=dark&include_all_commits=true&count_private=true&rank_icon=github&hide_title=true" />
 </picture>-->
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=luizfcp)
+<!--![image](https://github-readme-stats.vercel.app/api/top-langs/?username=luizfcp)-->
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=luizfcp" />
   
-  <img src="[https://github-profile-trophy.vercel.app/?username=luizfcp](https://github-readme-streak-stats.herokuapp.com/?user=luizfcp)" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=luizfcp&theme=dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=400" />
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizfcp&theme=vue" />
   
