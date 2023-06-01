@@ -69,7 +69,7 @@
 <!--![image](https://github-readme-stats.vercel.app/api/top-langs/?username=luizfcp)-->
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luizfcp&rank=-C,-B" />
+  <img src="https://github-profile-trophy.vercel.app/?username=luizfcp&rank=A,AA,AAA,S,SS,SSS" />
   
   <img src="https://github-readme-streak-stats.herokuapp.com?user=luizfcp&theme=dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=600" />
   
