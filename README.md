@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Hi!%20Welcome%20to%20my%20profile&fontSize=20&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
 
 <div id="badges">
+<p align="center">
   <a href="https://www.linkedin.com/in/luizfcp/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -10,6 +11,7 @@
   <a href="mailto:luizfcpassos@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:luizfcpassos@gmail.com" alt="Gmail Badge"/>
   </a>
+</p>
 </div>
 
 <b>I'm Luiz Fernando</b> <img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px">
