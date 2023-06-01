@@ -8,9 +8,6 @@
   <a href="http://luizfcp.github.io/">
     <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" alt="Githupages Badge"/>
   </a>
-  <a href="mailto:luizfcpassos@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:luizfcpassos@gmail.com" alt="Gmail Badge"/>
-  </a>
 </p>
 </div>
 
