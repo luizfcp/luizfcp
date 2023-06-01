@@ -56,7 +56,7 @@
 
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=luizfcp&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=luizfcp&show_icons=true&theme=dark&include_all_commits=true&count_private=true&custom_title=''&rank_icon=github"
   media="(prefers-color-scheme: dark)"
 />
 <source
