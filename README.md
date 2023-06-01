@@ -60,15 +60,17 @@
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=luizfcp&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=luizfcp&show_icons=true&theme=dark&include_all_commits=true&count_private=true&rank_icon=github&hide_title=true&hide=contribs"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=luizfcp&show_icons=true&theme=dark&include_all_commits=true&count_private=true&rank_icon=github&hide_title=true&hide=contribs" />
 </picture>
+
+![image](https://github-readme-streak-stats.herokuapp.com/?user=luizfcp)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=luizfcp" />
-  <!-- ![image](https://github-readme-streak-stats.herokuapp.com/?user=luizfcp)-->
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizfcp&theme=vue" />
   <!-- ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=luizfcp)-->
 </p>
