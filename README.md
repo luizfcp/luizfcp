@@ -69,9 +69,9 @@
 <!--![image](https://github-readme-stats.vercel.app/api/top-langs/?username=luizfcp)-->
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luizfcp" />
+  <img src="https://github-profile-trophy.vercel.app/?username=luizfcp&rank=-C,-B" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=luizfcp&theme=dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=600&exclude_days=Sun%2CSat" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=luizfcp&theme=dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=600" />
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizfcp&theme=vue" />
   
