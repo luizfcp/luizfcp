@@ -6,8 +6,6 @@
 
 🎓 BSc in Statistics from the Universidade Federal Fluminense (RJ - Brazil).
 
-💻 My interests span Programming, Data Science, Data Analysis and Artificial Inteligence (Machine Learning, Deep Learning, Computer Vision and Natural Language Processing).
-
 ---
 
 > Main Programming Language: 
