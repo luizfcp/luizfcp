@@ -16,12 +16,15 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 ---
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=luizfcp&theme=dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=600" />  
-</p>
-  
----
 
 <!--<p align="center">  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizfcp&theme=transparent" />  
 </p>
+
+---
+
+<!--
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=luizfcp&theme=dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=600" />  
+</p>
+  
