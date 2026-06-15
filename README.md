@@ -2,7 +2,7 @@
 
 <b>I'm Luiz Fernando</b> <img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px">
 
-🎓 Studyng at MSc in Computation - Data Science and Artificial Inteligence from the Universidade Federal Fluminense (RJ - Brazil).
+🎓 MSc in Computation - Data Science and Artificial Inteligence from the Universidade Federal Fluminense (RJ - Brazil).
 
 🎓 BSc in Statistics from the Universidade Federal Fluminense (RJ - Brazil).
 
@@ -22,6 +22,6 @@
   
 ---
 
-<p align="center">  
+<!--<p align="center">  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizfcp&theme=transparent" />  
 </p>
